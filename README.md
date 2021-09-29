@@ -1,0 +1,1 @@
+# aem-archtype-24
